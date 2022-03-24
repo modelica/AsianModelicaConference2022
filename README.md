@@ -49,8 +49,14 @@ The Modelica conference will bring together people using any of the Modelica Ass
 
 In addition, the conference will include Vendors' exhibition.
 
+# Organization and Contact
+
+The conference is organized by Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
+For more information and application, please contact the [organizer](mailto: modelica2022asian@modelica.org).
 
 ## Conference Board
+
+*  Prof. Tielong Shen, Sophia University, Tokyo, Japan
 
 *  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
@@ -67,6 +73,8 @@ In addition, the conference will include Vendors' exhibition.
 *  Dr. Hubertus Tummescheit, Modelon Inc. USA
 
 ## Local Organization
+
+*  Prof. Tielong Shen, Sophia University, Tokyo, Japan
 
 *  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
