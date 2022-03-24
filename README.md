@@ -1,5 +1,10 @@
-# AsianModelicaConference2022
-The Asian Modelica Conference 2022
+# About the Conference
+
+The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to all of the system simulation standards developed and maintained by the Modelica Association, in particular [Modelica](https://www.modelica.org/), the [Functional Mockup Interface (FMI)](http://www.fmi-standard.org/), the [System Structure and Parameterization (SSP)](https://ssp-standard.org/) standard and the [The Distributed Co-simulation Protocol (DCP)](https://dcp-standard.org/) standard.
+
+The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
+We are looking forward to seeing you.
+
 # Scope of the Conference
 
 The Modelica conference will bring together people using any of the Modelica Association standards for modeling, simulation, and control applications, Modelica language designers, Modelica and/or FMI tool vendors and Modelica library developers. It provides Modelica users the opportunity to stay informed about the latest standards, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference will cover topics such as the following:
