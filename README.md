@@ -51,7 +51,7 @@ In addition, the conference will include Vendors' exhibition.
 
 # Organization and Contact
 
-The conference is organized by Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
+The conference is organized by Sophia University and Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
 For more information and application, please contact the [organizer](mailto: modelica2022asian@modelica.org).
 
 ## Conference Board
@@ -60,13 +60,11 @@ For more information and application, please contact the [organizer](mailto: mod
 
 *  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
-*  Dr. Yutaka Hirano, Toyota Research Institute - Advanced Development, Inc., Japan
-
-*  Dr. Hilding Elmqvist, Mogram, Lund, Sweden
-
-*  Prof. Peter Fritzson, Linköping University, Sweden
+*  Dr. Yutaka Hirano, Woven Planet Holdings, Inc., Japan
 
 *  Prof. Martin Otter, DLR, Germany
+
+*  Dr. Martin Sjölund, Linköping University, Sweden
 
 *  Dr. Michael Tiller, Xogeny, Michigan, USA
 
@@ -78,4 +76,4 @@ For more information and application, please contact the [organizer](mailto: mod
 
 *  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
-*  Dr. Yutaka Hirano, Toyota Research Institute - Advanced Development, Inc., Japan
+*  Dr. Yutaka Hirano, Woven Planet Holdings, Inc., Japan
