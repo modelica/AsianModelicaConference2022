@@ -79,8 +79,8 @@ For more information and application, please contact the [organizer](mailto: rig
 
 ## Local Organization
 
-*  General chair: Prof. Tielong Shen, Sophia University, Tokyo, Japan
+*  General chair:  Prof. Tielong Shen, Sophia University, Tokyo, Japan
 
-*  Program chair: Dr. Yutaka Hirano, Woven Planet Holdings, Inc., Japan
+*  Program chair:  Dr. Yutaka Hirano, Woven Planet Holdings, Inc., Japan
 
-*  Local chair: Dr. Rui Gao, Modelon K.K., Tokyo, Japan
+*  Local chair:    Dr. Rui Gao, Modelon K.K., Tokyo, Japan
