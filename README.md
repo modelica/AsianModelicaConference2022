@@ -49,6 +49,13 @@ The Modelica conference will bring together people using any of the Modelica Ass
 
 In addition, the conference will include Vendors' exhibition.
 
+# Important Dates
+
+*  Full papers submission: 		  July 31, 2022
+*  Notification of acceptance: 	September 15, 2022
+*  Final papers submission: 	  September 30, 2022
+*  Early bird registration: 		September 30, 2022
+*  
 # Organization and Contact
 
 The conference is organized by Sophia University and Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
