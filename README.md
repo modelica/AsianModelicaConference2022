@@ -55,7 +55,7 @@ In addition, the conference will include Vendors' exhibition.
 *  Notification of acceptance: 	September 15, 2022
 *  Final papers submission: 	  September 30, 2022
 *  Early bird registration: 		September 30, 2022
-*  
+
 # Organization and Contact
 
 The conference is organized by Sophia University and Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
