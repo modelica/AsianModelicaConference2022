@@ -59,7 +59,7 @@ In addition, the conference will include Vendors' exhibition.
 # Organization and Contact
 
 The conference is organized by Sophia University and Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
-For more detail information and application, please contact the [organizer](modelica2022asian@googlegroups.com).
+For more information and application, please contact the [organizer](mailto: modelica2022asian@googlegroups.com).
 
 ## Conference Board
 
