@@ -65,10 +65,10 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Important Dates
 
-Full papers submission: 		July 31, 2022
-Notification of acceptance: 	September 15, 2022
-Final papers submission: 	    September 30, 2022
-Early bird registration: 		September 30, 2022
+* Full papers submission: 		July 31, 2022
+* Notification of acceptance: 	September 15, 2022
+* Final papers submission: 	    September 30, 2022
+* Early bird registration: 		September 30, 2022
 
 
 # Registration
