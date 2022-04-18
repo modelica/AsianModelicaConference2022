@@ -41,7 +41,7 @@ In addition, the conference will include Vendors' exhibition.
 
 # Call for Papers
 
-You are encouraged to share your Modelica, FMI and other Modelica Association related work by submitting a paper in English. Further information about the submission and paper templates are available at [the conference site](https://2022.asian.conference.modelica.org/).
+You are encouraged to share your Modelica, FMI and other Modelica Association related work by submitting a paper in English. 
 Papers and extended abstracts for presentations can be submitted via the EasyChair conference management system (login is needed first):
 
 [EasyChair AsianModelicaConference 2022](https://easychair.org/my/conference?conf=modelica2022asian)
