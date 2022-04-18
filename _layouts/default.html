@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
+        {% if site.logo %}
+          <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
+        {% endif %}
+     
+      </header>
+      <section>
+        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<th align="center"; valign="middle"><p><span width="20%"> <a href="{{ "/" | absolute_url }}">Home</a></span></p></th>  
+<th align="center"; valign="middle"><p><span width="20%"> <a href="{{ "/proceedings/html/program.html" | absolute_url }}">Program</a> </span></p></th>
+<th align="center"; valign="middle"><p><span width="20%"> <a href="{{ "https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=174" | absolute_url }}">Proceedings</a></span></p></th>
+<th align="center"; valign="middle"><p><span width="20%"> <a href="{{ "https://whova.com/portal/webapp/amcft_202010/" | absolute_url }}">Virtual Conference</a></span></p></th>  
+<th align="center"; valign="middle"><p><span width="20%"> <a href="https://whova.com/portal/amcft_202010/?source=text_link" class="whova-textlink" target="_blank" style="text-decoration:underline;color:#2DACEE;font-size:16px"/>Get Whova Now</a> </span></p></th>
+</tr>
+     </table>
+
+      {{ content }}
+      </section>
+      <footer>
+        <h3>Organized by:</h3>
+        <p>
+          <!-- <a style="border-bottom: 0px solid #ccc;" href="https://www.sophia.ac.jp/eng/index.html"><img style="padding:5px;height:40px;width:auto;" src="/proceedings/html/static/images/Modelon.png" alt="Modelon" /></a> -->
+          <a style="border-bottom: 0px solid #ccc;" href="http://www.modelica.org"><img style="padding:5px;height:50px;width:auto;" src="/proceedings/html/static/images/ModelicaLogo.jpg" alt="Modelica" /></a>
+        </p>
+         <h4>Sponsored by:</h4>
+        <p>
+          <a style="border-bottom: 0px solid #ccc;" href="https://www.modelon.com"><img style="padding:5px;height:40px;width:auto;" src="/proceedings/html/static/images/Sophia%20Uni_logo-header.svg" alt="Sophia" /></a>
+          <a style="border-bottom: 0px solid #ccc;" href="https://www.modelon.com"><img style="padding:5px;height:40px;width:auto;" src="/proceedings/html/static/images/Modelon.png" alt="Modelon" /></a>
+          <!-- <a style="border-bottom: 0px solid #ccc;" href="https://www.avl.com"><img style="padding:5px;height:20px;width:auto;" src="/proceedings/html/static/images/AVL.jpg" alt="AVL" /></a>
+          <a style="border-bottom: 0px solid #ccc;" href="https://www.maplesoft.com"><img style="padding:5px;height:25px;width:auto;" src="/proceedings/html/static/images/Maplesoft_logo.jpg" alt="Maplesoft" /></a>
+          <a style="border-bottom: 0px solid #ccc;" href="https://www.scsk.jp/product/common/rs/ignite.html"><img style="padding:5px;height:20px;width:auto;" src="/proceedings/html/static/images/SCSK.jpg" alt="SCSK" /></a>   
+          <a style="border-bottom: 0px solid #ccc;" href="https://new.siemens.com/global/en.html"><img style="padding:5px;height:35px;width:auto;" src="/proceedings/html/static/images/Siemens.jpg" alt="Siemens" /></a>                            
+          <a style="border-bottom: 0px solid #ccc;" href="http://www.newtonworks.co.jp"><img style="padding:5px;height:30px;width:auto;" src="/proceedings/html/static/images/Newtonworks.png" alt="Newtonworks" /></a>                                      
+          <a style="border-bottom: 0px solid #ccc;" href="https://www.argo-graph.co.jp"><img style="padding:5px;height:16px;width:auto;" src="/proceedings/html/static/images/Argographics.jpg" alt="ArgoGraphics" /></a>                                    
+          <a style="border-bottom: 0px solid #ccc;" href="http://www.neorium.co.jp"><img style="padding:5px;height:16px;width:auto;" src="/proceedings/html/static/images/Neorium.jpg" alt="Neorium" /></a>                             -->
+        </p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
