@@ -1,6 +1,6 @@
 
 
-The Asian Modelica Conference 2022 will be held as a fully virtual event on November 24–25, 2022. It is organized by [Modelica Association](https://www.modelica.org/) in cooperation with [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/).
+The Asian Modelica Conference 2022 will be held as a fully virtual event on November 24–25, 2022. It is organized by [Modelica Association](https://www.modelica.org/) in cooperation with [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/). In case the COVID-19 restriction is lifted, the organizers try to keep an option for a hybrid conference by adding one or half a day on-site workshop/tutorials before the conference at [Sophia University](https://www.sophia.ac.jp/eng/index.html) in Tokyo, Japan.
 
 # About the Conference
 
