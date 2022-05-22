@@ -1,5 +1,5 @@
 <html>
-<p><h3>Thursday, October 8 (Japan Standard Time, UTC+9) </h3></p>
+<!--<p><h3>Thursday, October 8 (Japan Standard Time, UTC+9) </h3></p>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Start</span></p></th>  
@@ -134,18 +134,18 @@
 <td>16:30</td>
 <td>Closing the conference</td>
 </tr>
-</table>
+</table>-->
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr><th style="background-color: #e6e6e6"><p align="left"><span style="background-color: #e6e6e6;"><h3>Program</h3></span></p></th></tr>  
 <tr><td><p align="left"><span>&nbsp;<h4> Keynote 1</h4></span></p></td></tr>
-<tr><td>&nbsp; Smart Mobility in a Cloud-Connected World </td></tr>
-<tr><td>&nbsp;<span style="font-style:italic">   Dr. James Kuffner, TRI-AD </span></td></tr>
+<tr><td>&nbsp; Toward advanced powertrain control technologies based on models </td></tr>
+<tr><td>&nbsp;<span style="font-style:italic">   Prof. Yudai Yamasaki, The University of Tokyo </span></td></tr>
 
 <tr><td><p align="left"><span>&nbsp;<h4> Keynote 2</h4></span></p></td></tr>
-<tr><td>&nbsp; From industrial applications to electric flight: Modelica as key enabler </td></tr>
-<tr><td>&nbsp;<span style="font-style:italic">   Dr. Tobias Bellmann, Dr. Dirk Zimmer, DLR </span></td></tr>
+<tr><td>&nbsp; Model Predictive Control:  An attempt to tell an unfinished story! </td></tr>
+<tr><td>&nbsp;<span style="font-style:italic">   Dr. Mazen Alamir, CNRS, Grenoble </span></td></tr>
 
-<tr><td><p align="left"><span>&nbsp;<h4> Session 1: Mechanical Systems</h4></span></p></td></tr>
+<!--<tr><td><p align="left"><span>&nbsp;<h4> Session 1: Mechanical Systems</h4></span></p></td></tr>
 <tr><td>&nbsp; 1. Introducing the Virtual Systems Interface for Dynamic Coupling of Continuous Time Systems with Discontinuities</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Jeffrey Morgan and Bruno Loyer</span></td></tr>
 <tr><td>&nbsp; 2. Timoshenko Beam based Coupled Torsion Beam Axle Modeling Method</td></tr>
@@ -203,6 +203,6 @@
 <tr><td>&nbsp;<span style="font-style:italic">   John Tinnerholm, Adrian Pop, Martin Sjölund, Andreas Heuermann and Karim Abdelhak</span></td></tr>
 <tr><td>&nbsp; 3. The DLR Robots library – Using replaceable packages to simulate various serial robots</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Tobias Bellmann, Andreas Seefried and Bernhard Thiele</span></td></tr>
-<tr><td>&nbsp; 4. Q&A to Session 6</td></tr>
+<tr><td>&nbsp; 4. Q&A to Session 6</td></tr>-->
 </table>
 </html>
