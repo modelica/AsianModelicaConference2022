@@ -140,7 +140,7 @@
 <tr><td><p align="left"><span>&nbsp;<h4> Keynote 1</h4></span></p></td></tr>
 <tr><td>&nbsp; Toward advanced powertrain control technologies based on models </td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Prof. Yudai Yamasaki, The University of Tokyo </span></td></tr>
-<tr><td>&nbsp; <a href="cfp/KN01_Prof Yudai Yamasaki Japan.pdf"> Abstract  </a></td></tr>
+<tr><td>&nbsp; <a href="https://github.com/modelica/AsianModelicaConference2022/blob/main/cfp/KN01_Prof%20Yudai%20Yamasaki%20Japan.pdf"> Abstract  </a></td></tr>
 
 <tr><td><p align="left"><span>&nbsp;<h4> Keynote 2</h4></span></p></td></tr>
 <tr><td>&nbsp; Model Predictive Control:  An attempt to tell an unfinished story!</td></tr>
