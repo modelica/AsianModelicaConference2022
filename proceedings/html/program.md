@@ -143,7 +143,7 @@
 <tr><td>&nbsp; <a href="cfp/KN01_Prof Yudai Yamasaki Japan.pdf"> Abstract  </a></td></tr>
 
 <tr><td><p align="left"><span>&nbsp;<h4> Keynote 2</h4></span></p></td></tr>
-<tr><td>&nbsp; Model Predictive Control:  An attempt to tell an unfinished story!)</td></tr>
+<tr><td>&nbsp; Model Predictive Control:  An attempt to tell an unfinished story!</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Dr. Mazen Alamir, CNRS, Grenoble </span></td></tr>
 <tr><td>&nbsp; <a href="cfp/KN02_Dr Mazen Alamir_France.pdf"> Abstract </a> </td></tr>
   
