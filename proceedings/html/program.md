@@ -138,13 +138,15 @@
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr><th style="background-color: #e6e6e6"><p align="left"><span style="background-color: #e6e6e6;"><h3>Program</h3></span></p></th></tr>  
 <tr><td><p align="left"><span>&nbsp;<h4> Keynote 1</h4></span></p></td></tr>
-<tr><td>&nbsp; Toward advanced powertrain control technologies based on models [abstract](cfp/KN01_Prof Yudai Yamasaki Japan.pdf)</td></tr>
+<tr><td>&nbsp; Toward advanced powertrain control technologies based on models </td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Prof. Yudai Yamasaki, The University of Tokyo </span></td></tr>
+<tr><td>&nbsp; [Abstract](cfp/KN01_Prof Yudai Yamasaki Japan.pdf)</td></tr>
 
 <tr><td><p align="left"><span>&nbsp;<h4> Keynote 2</h4></span></p></td></tr>
-<tr><td>&nbsp; Model Predictive Control:  An attempt to tell an unfinished story! [abstract](cfp/KN02_Dr Mazen Alamir_France.pdf)</td></tr>
+<tr><td>&nbsp; Model Predictive Control:  An attempt to tell an unfinished story!)</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Dr. Mazen Alamir, CNRS, Grenoble </span></td></tr>
-
+<tr><td>&nbsp; [Abstract](cfp/KN02_Dr Mazen Alamir_France.pdf)</td></tr>
+  
 <!--<tr><td><p align="left"><span>&nbsp;<h4> Session 1: Mechanical Systems</h4></span></p></td></tr>
 <tr><td>&nbsp; 1. Introducing the Virtual Systems Interface for Dynamic Coupling of Continuous Time Systems with Discontinuities</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Jeffrey Morgan and Bruno Loyer</span></td></tr>
