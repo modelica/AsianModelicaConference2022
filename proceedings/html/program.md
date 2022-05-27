@@ -146,7 +146,7 @@
 <tr><td>&nbsp; Model Predictive Control:  An attempt to tell an unfinished story!</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Dr. Mazen Alamir, CNRS, Grenoble </span></td></tr>
 <tr><td>&nbsp; <a href="https://github.com/modelica/AsianModelicaConference2022/blob/main/cfp/KN02_Dr%20%20Mazen%20Alamir_France.pdf"> Abstract </a> </td></tr>
-  
+ 
 <!--<tr><td><p align="left"><span>&nbsp;<h4> Session 1: Mechanical Systems</h4></span></p></td></tr>
 <tr><td>&nbsp; 1. Introducing the Virtual Systems Interface for Dynamic Coupling of Continuous Time Systems with Discontinuities</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Jeffrey Morgan and Bruno Loyer</span></td></tr>
@@ -207,4 +207,10 @@
 <tr><td>&nbsp;<span style="font-style:italic">   Tobias Bellmann, Andreas Seefried and Bernhard Thiele</span></td></tr>
 <tr><td>&nbsp; 4. Q&A to Session 6</td></tr>-->
 </table>
+      <div><div title="Whova event and conference app" id="whova-speakerwidget"><p id="whova-loading">Loading...</p></div>
+    <script src="https://whova.com/static/frontend/xems/js/whova-speaker-widget.js?eid=R6bdp-YuC8OQBqFiBCXu0xsvV%40m8zg0GoimLIi3uELQ%3D&host=https://whova.com" type="text/javascript"  id="embeded-speaker-script"></script>
+    <div id="whova-wrap">Powered By <a class="brandlink" target="_blank" href="https://www.whova.com"><b>Whova</b></a>
+      <div id="whova-mgm"><a href="https://whova.com/whova-event-app/" id="whova-emslink" target="_blank">Event App</a>
+      </div></div></div>
+  
 </html>
