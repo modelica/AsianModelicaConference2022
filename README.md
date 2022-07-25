@@ -5,6 +5,7 @@ The Asian Modelica Conference 2022 is decided to change into a hybrid event on N
 * The deadline for paper submission is extended to 21, August.
 * Industrial paper by tool vendors no less than two pages is acceptable. 
 * Physical booth for sponsors will be available at the conference venue.
+* Conference dinner party will be scheduled for the on-site participants.
 
 # About the Conference
 
