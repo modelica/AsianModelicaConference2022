@@ -2,10 +2,10 @@
 
 The Asian Modelica Conference 2022 is decided to change into a hybrid event on November 24–25, 2022. It is organized by [Modelica Association](https://www.modelica.org/) in cooperation with [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/). The conference period keeps the same as before of two days, while a conference venue will be available inside Yotsuya campus of [Sophia University](https://www.sophia.ac.jp/eng/index.html) Tokyo, Japan. Some other updates are:
 
-* The deadline for paper submission is extended to 21, August.
-* Industrial paper by tool vendors no less than two pages is acceptable. 
-* Physical booth for sponsors will be available at the conference venue.
-* Conference dinner party will be scheduled for the on-site participants.
+* The deadline for paper submission is extended to 21, August
+* Industrial paper by tool vendors no less than two pages is acceptable
+* Physical booth for sponsors will be available at the conference venue
+* Conference dinner party will be scheduled for on-site participants
 
 # About the Conference
 
