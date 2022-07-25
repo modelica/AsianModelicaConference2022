@@ -1,6 +1,10 @@
+# Important Update
 
+The Asian Modelica Conference 2022 is decided to change into a hybrid event on November 24–25, 2022. It is organized by [Modelica Association](https://www.modelica.org/) in cooperation with [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/). The conference period keeps the same as before of two days, while a conference venue will be available inside Yotsuya campus of [Sophia University](https://www.sophia.ac.jp/eng/index.html) Tokyo, Japan. Some other updates are:
 
-The Asian Modelica Conference 2022 will be held as a fully virtual event on November 24–25, 2022. It is organized by [Modelica Association](https://www.modelica.org/) in cooperation with [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/). In case the COVID-19 restriction is lifted, the organizers try to keep an option for a hybrid conference by adding one or half a day on-site workshop/tutorials before the conference at [Sophia University](https://www.sophia.ac.jp/eng/index.html) in Tokyo, Japan.
+* The deadline for paper submission is extended to 21, August.
+* Industrial paper by tool vendors no less than two pages is acceptable. 
+* Physical booth for sponsors will be available at the conference venue.
 
 # About the Conference
 
@@ -65,15 +69,15 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Important Dates
 
-* Full papers submission: 		July 31, 2022
-* Notification of acceptance: 	September 15, 2022
-* Final papers submission: 	    September 30, 2022
-* Early bird registration: 		September 30, 2022
+* Full papers submission: 		August 21, 2022
+* Notification of acceptance: 	September 30, 2022
+* Final papers submission: 	    October 15, 2022
+* Early bird registration: 		October 15, 2022
 
 
 # Registration
 
-Virtual conference regisitration information will be available soon. 
+Hybrid conference regisitration information will be available soon. 
 
 <!-- # Whova platform
 
