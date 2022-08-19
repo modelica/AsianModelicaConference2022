@@ -2,8 +2,8 @@
 
 The Asian Modelica Conference 2022 has been changed to a hybrid event on November 24–25, 2022. It is organized by [Modelica Association](https://www.modelica.org/) in cooperation with [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/). The conference period keeps the same as before of two days, while a conference venue will be available inside Yotsuya campus of [Sophia University](https://www.sophia.ac.jp/eng/index.html) Tokyo, Japan. Some other updates are:
 
-* The deadline for paper submission is extended to 21, August
-* Industrial paper by tool vendors no less than two pages is acceptable
+* The deadline for paper submission is extended further to 11, September
+* Industrial paper by tool vendors, post paper, discussion paper no less than two pages are acceptable
 * Physical exhibition will be available at the conference venue
 * Conference dinner party will be scheduled for on-site participants
 
@@ -68,12 +68,12 @@ To support the conference, and to get an opportunity to expose their Modelica- a
 
 A decision about the acceptance of sponsors and exhibitors will be based upon Modelica/FMI relevance of products and/or services at the time of application submission.
 
-# Important Dates
+# Important Dates (further extended in August 19)
 
-* Full papers submission: 		August 21, 2022
-* Notification of acceptance: 	September 30, 2022
-* Final papers submission: 	    October 15, 2022
-* Early bird registration: 		October 15, 2022
+* Full papers submission: 		September 11, 2022
+* Notification of acceptance: 	October 2, 2022
+* Final papers submission: 	    October 23, 2022
+* Early bird registration: 		October 23, 2022
 
 
 # Registration
