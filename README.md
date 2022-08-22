@@ -13,7 +13,7 @@ The Modelica Conference is the main event for users, library developers, tool ve
 
 The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications. More details about the virtual conference platform will be available soon.
 
-We are looking forward to seeing you online.
+We are looking forward to seeing you online or in-person.
 
 # Scope of the Conference
 
