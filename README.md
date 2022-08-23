@@ -80,7 +80,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 Please register the hybrid conference according to your situation
 * [Early bird: Virtual conferecen registration](https://whova.com/portal/registration/amcv_202211/)
-* [Early bird: Physical conference registration (conference dinner included)](https://whova.com/portal/registration/amcv_202211/1lywcfh8)
+* [Early bird: Physical conference registration (conf dinner incl.)](https://whova.com/portal/registration/amcv_202211/1lywcfh8)
 * [General presenter registration (either physical or virtual)](https://whova.com/portal/registration/amcv_202211/d4qmxf4a)
 * [Conference dinner only registration](https://whova.com/portal/registration/amcv_202211/1lpdgtuj)
 
