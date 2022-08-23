@@ -78,10 +78,18 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Registration
 
-Please register the hybrid conference according to your situation
+Please register the hybrid conference according to your situation: either virtual or physical, general participant or presenter. The early bird ticket is available from August 23 to October 23, 2022.
+
+If you plan to attend the virtual conference, please register at 
 * [Early bird: Virtual conferecen registration](https://whova.com/portal/registration/amcv_202211/)
+
+If you plan to attend the physical conference, please register at
 * [Early bird: Physical conference registration (conf dinner incl.)](https://whova.com/portal/registration/amcv_202211/1lywcfh8)
-* [General presenter registration (either physical or virtual)](https://whova.com/portal/registration/amcv_202211/d4qmxf4a)
+
+For the presenter of the conference paper, please register at
+* [General presenter registration (Both physical and virtual)](https://whova.com/portal/registration/amcv_202211/d4qmxf4a)
+
+For the conference participant's companion who only joins the dinner party, please register at
 * [Conference dinner only registration](https://whova.com/portal/registration/amcv_202211/1lpdgtuj)
 
 <!-- # Whova platform
