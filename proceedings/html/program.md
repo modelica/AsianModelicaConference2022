@@ -11,10 +11,24 @@
 <tr><td>&nbsp; Model Predictive Control:  An attempt to tell an unfinished story!</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Dr. Mazen Alamir, CNRS, Grenoble </span></td></tr>
 <tr><td>&nbsp; While it is true that any control design methodology is based on some modelling of the underlying dynamics, the most advanced of these techniques, namely Model Predictive Control (MPC) cannot be conceived in the absence of such a dynamic model. The predominant place of MPC in the control engineering landscape since the last two decades is justified by its ability to handle nonlinearities, constraints and optimality concerns on one hand and by the availability of dedicated efficient optimization solvers on the other hand. In this talk, the basics of MPC are introduced and the main related research topics are shortly and progressively discussed including among others: Stability issues, Real-time implementation, Handling uncertainties via stochastic MPC, GPU-based parallel implementation as well as appropriate use of Machine Learning based blocs. Industrial and real-life examples are used throughout the talk in order to illustrate the underlying tools and methods. </td></tr>
- 
-
 </table>
  
 <div><div title="Whova event and conference app" id="whova-speakerwidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/xems/js/whova-speaker-widget.js?eid=GHEiT-lp9cKpLFF2odaHiBNcoHAXwqRkhNz1JVOHQ3M%3D&host=https://whova.com" type="text/javascript"  id="embeded-speaker-script"></script><div id="whova-wrap">Powered By <a class="brandlink" target="_blank" href="https://www.whova.com"><b>Whova</b></a><div id="whova-mgm"><a href="https://whova.com/whova-event-app/" id="whova-emslink" target="_blank">Event App</a></div></div></div>
-
+         <div>
+            <div title="Whova event and conference app" id="whova-agendawidget">
+                <p id="whova-loading">Loading...</p>
+            </div>
+            <script src="https://whova.com/static/frontend/xems/js/embed/embedagenda.js?eid=j%40DqY-TGIZ0dpyYll0VrwMHpR9tdVbp2eNsXKX-r8mo%3D&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script">
+            </script>
+            <div id="whova-wrap">
+                Powered By
+                <a class="brandlink" target="_blank" href="https://whova.com/blog/event-registration-software-price-comparison/">
+                    <b>Whova</b>
+                </a>
+                <br/>
+                <a id="whova-emslink" class="brandanchorlink" target="_blank" href="https://whova.com/blog/event-registration-software-price-comparison/">
+                    Event registration
+                </a>
+            </div>
+        </div>
 </html>
