@@ -76,7 +76,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 * Early bird registration: 		October 23, 2022
 
 
-# Registration
+# Early Bird Registration
 
 Please register the hybrid conference according to your situation: either virtual or physical, general participant or presenter. The early bird ticket in Japanese Yen is available from August 23 to October 23, 2022.
 
