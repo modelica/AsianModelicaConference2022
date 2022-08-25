@@ -83,10 +83,10 @@ Please register the hybrid conference according to your situation: either virtua
 If you plan to attend the virtual conference, please register from the link below where the early bird ticket has 30% discount to the standard ticket of 15000JPY.
 * [Early bird: Virtual conferecen registration](https://whova.com/portal/registration/amcv_202211/)
 
-If you plan to attend the physical conference, please register from the link below where the early bird ticket has 30% discount to the standard ticket of 25000JPY.
+If you plan to attend the physical conference, please register from the link below where the early bird ticket has 30% discount to the standard ticket of 25000JPY. Conference dinner fee is included in the ticket.
 * [Early bird: Physical conference registration (conf dinner incl.)](https://whova.com/portal/registration/amcv_202211/1lywcfh8)
 
-For the presenter of the conference paper, please register from the link below where the early bird ticket has 30% discount to the standard ticket of 35000JPY.
+For the presenter of the conference paper, please register from the link below where the early bird ticket has 30% discount to the standard ticket of 35000JPY. Conference dinner fee is included in the ticket for physical conference attendee.
 * [Early bird: General presenter registration (Both physical and virtual)](https://whova.com/portal/registration/amcv_202211/d4qmxf4a)
 
 # Whova platform
