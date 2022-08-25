@@ -78,7 +78,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Registration
 
-Please register the hybrid conference according to your situation: either virtual or physical, general participant or presenter. The early bird ticket is available from August 23 to October 23, 2022.
+Please register the hybrid conference according to your situation: either virtual or physical, general participant or presenter. The early bird ticket in Japanese Yen is available from August 23 to October 23, 2022.
 
 If you plan to attend the virtual conference, please register at 
 * [Early bird: Virtual conferecen registration](https://whova.com/portal/registration/amcv_202211/)
