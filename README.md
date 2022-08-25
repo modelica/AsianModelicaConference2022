@@ -68,7 +68,7 @@ To support the conference, and to get an opportunity to expose their Modelica- a
 
 A decision about the acceptance of sponsors and exhibitors will be based upon Modelica/FMI relevance of products and/or services at the time of application submission.
 
-# Important Dates (further extended in August 19)
+# Important Dates (further extended)
 
 * Full papers submission: 		September 11, 2022
 * Notification of acceptance: 	October 2, 2022
@@ -89,13 +89,9 @@ If you plan to attend the physical conference, please register at
 For the presenter of the conference paper, please register at
 * [General presenter registration (Both physical and virtual)](https://whova.com/portal/registration/amcv_202211/d4qmxf4a)
 
-For the conference participant's companion who only joins the dinner party, please register at
-* [Conference dinner only registration](https://whova.com/portal/registration/amcv_202211/1lpdgtuj)
+ # Whova platform
+Remote access to the virtual conference is managed using [Whova](https://whova.com/). The participants who registered will receive an email from Whova. You will be notified once the event is ready on the Whova Web and Mobile apps. You will then be able to access the agenda and network with other attendees.
 
-<!-- # Whova platform
-
-Virtual conference is managed using [Whova](https://whova.com/). The participants who registered at Eventbrite will receive an email from Whova one day later to activate your Whova account. The [official conference web link](https://whova.com/portal/webapp/amcft_202010/) works for any browser. Please look at [instructions (video and text)](https://whova.com/resources/how-to-guide/user-tutorial/#:~:text=The%20Whova%20event%20app%20is,your%20mobile%20device%27s%20web%20browser) for Whova on your phone or as web-app to find the best option for you.
- -->
 # Organization and Contact
 
 The conference is organized by [Modelica Association](https://www.modelica.org/) in cooperation with Prof. Tielong Shen from [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/). For more information and application, please contact the [organizer](mailto: modelica2022asian@googlegroups.com).
