@@ -113,4 +113,4 @@ The conference is organized by [Modelica Association](https://www.modelica.org/)
 * Program chair: Dr. Yutaka Hirano, Woven Planet Holdings, Inc.
 * Conference co-chair: Dr. Rui Gao, Modelon K.K.
 
-### [Privacy Policy](cfp/Asian-Modelica-Conference-2022-Privacy-Policy.pdf)
+### [Privacy Policy](cfp/Asian-Modelica-Conference-2022-Privacy-Policy.pdf) & [Release Form](cfp/Asian Modelica Conference 2022 Release Form.pdf)
