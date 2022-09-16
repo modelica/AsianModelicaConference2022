@@ -78,7 +78,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Early Bird Registration
 
-Please register the hybrid conference according to your situation: either virtual or physical, general participant or presenter. The early bird ticket in Japanese Yen is available from August 23 to October 23, 2022.
+Please register the hybrid conference according to your situation: either virtual or physical, general participant or presenter. The early bird ticket in Japanese Yen is available from August 23 to October 23, 2022. In the registration, you will be asked to fill in the form about your information. Please make sure you have consent to the [Privacy Policy](cfp/Asian-Modelica-Conference-2022-Privacy-Policy.pdf).
 
 If you plan to attend the virtual conference, please register from the link below where the early bird ticket has 30% discount to the standard ticket of 15000JPY.
 * [Early bird: Virtual conferecen registration](https://whova.com/portal/registration/amcv_202211/)
