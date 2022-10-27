@@ -89,6 +89,9 @@ If you plan to attend the physical conference, please register from the link bel
 For the presenter of the conference paper, please register from the link below. Conference dinner fee is included in the ticket for physical conference attendee.
 * [General presenter registration (Both physical and virtual)](https://whova.com/portal/registration/amcv_202211/d4qmxf4a)
 
+# Conference venue
+The top floor classroom of Building No.7 at Yotsuya campus, Sophia University will be the main conference venue. Please refer to the [access map](https://www.sophia.ac.jp/eng/info/access/map/map_yotsuya.html) 
+
 # Whova platform
 Remote access to the virtual conference is managed using [Whova](https://whova.com/). The participants who registered will receive an email from Whova. You will be notified once the event is ready on the Whova Web and Mobile apps. You will then be able to access the agenda and network with other attendees.
 
