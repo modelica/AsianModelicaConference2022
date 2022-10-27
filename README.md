@@ -90,7 +90,10 @@ For the presenter of the conference paper, please register from the link below. 
 * [General presenter registration (Both physical and virtual)](https://whova.com/portal/registration/amcv_202211/d4qmxf4a)
 
 # Conference venue
-The top floor classroom of Building No.7 at Yotsuya campus, Sophia University will be the main conference venue. Please refer to the [access map](https://www.sophia.ac.jp/eng/info/access/map/map_yotsuya.html) 
+The top floor classroom of Building No.7 at Yotsuya campus, Sophia University will be the main conference venue. 
+The address is 7-1 Kioicho, Chiyoda-ku, Tokyo 102-8554 JAPAN
+You can access the North Gate of the campus through JR Chuo line, Marunouchi subway line, Nanboku subway line / 5 minutes from Yotsuya Station
+Please refer to the [access map](https://www.sophia.ac.jp/eng/info/access/map/map_yotsuya.html) for more details.
 
 # Whova platform
 Remote access to the virtual conference is managed using [Whova](https://whova.com/). The participants who registered will receive an email from Whova. You will be notified once the event is ready on the Whova Web and Mobile apps. You will then be able to access the agenda and network with other attendees.
