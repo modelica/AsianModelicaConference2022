@@ -91,8 +91,10 @@ For the presenter of the conference paper, please register from the link below. 
 
 # Conference venue
 The top floor classroom of Building No.7 at Yotsuya campus, Sophia University will be the main conference venue. 
-The address is 7-1 Kioicho, Chiyoda-ku, Tokyo 102-8554 JAPAN
-You can access the North Gate of the campus through JR Chuo line, Marunouchi subway line, Nanboku subway line / 5 minutes from Yotsuya Station
+The address is 7-1 Kioicho, Chiyoda-ku, Tokyo 102-8554 JAPAN.
+
+You can access the North Gate of the campus through JR Chuo line, Marunouchi subway line, Nanboku subway line / 5 minutes from Yotsuya Station.
+
 Please refer to the [access map](https://www.sophia.ac.jp/eng/info/access/map/map_yotsuya.html) for more details.
 
 # Whova platform
