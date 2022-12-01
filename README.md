@@ -1,3 +1,12 @@
+# Post-event Access Available
+
+The Asian Modelica Conference 2022 was successfully closed last week. We are happy to announce that the local organizer committee decided to provide post-event free access to the recorded presentation including oral paper presentation and vendor solution presentation. The access period is from 1st to 9th December 2022.
+
+For the existent attendees who joined the conference last week, you can log in Whova and re-visit the presentation videos and exhibitor booths.
+
+For the new attendees who were not able to join the conference last week, please create your Whova account first and then access the conference content through following link.
+* [Post-event access registration](https://whova.com/portal/registration/amcv_202211/gjbzbhnq)
+
 # Important Update
 
 The Asian Modelica Conference 2022 has been changed to a hybrid event on November 24–25, 2022. It is organized by [Modelica Association](https://www.modelica.org/) in cooperation with [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/). The conference period keeps the same as before of two days, while a conference venue will be available inside [Yotsuya campus](https://www.sophia.ac.jp/eng/info/access/map/map_yotsuya.html) of [Sophia University](https://www.sophia.ac.jp/eng/index.html) Tokyo, Japan. Some other updates are:
